@@ -13,5 +13,7 @@ A Jupyter Notebook for fine-tuning the Llama model with medical data using Googl
 3. Install dependencies and upload your dataset (instructions in notebook).
 
 ## Resources
+- [Meta Llama] (https://www.llama.com/)
 - [Hugging Face Transformers](https://huggingface.co/transformers/)
 - [Google Colab](https://colab.research.google.com)
+
