@@ -1,6 +1,6 @@
 # Medical Llama Fine-Tuning on Google Colab Pro+
 
-Jupyter Notebook for fine-tuning and benchmarking the Llama model with medical datasets, leveraging several fine tuning technique (LoRA, BOFT, etc.)  Google Colab Pro+ and GPU acceleration.
+Paper and Jupyter Notebook for fine-tuning and benchmarking the Llama model with medical datasets, leveraging several fine tuning technique (LoRA, BOFT, etc.)  Google Colab Pro+ and GPU acceleration.
 
 ---
 
